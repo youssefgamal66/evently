@@ -1,0 +1,27 @@
+{
+  "start_title" : " Personalize Your Experience",
+  "start_desc" : " Choose your preferred theme and language to get started with a comfortable, tailored experience that suits your style.",
+  "lang" : "Language",
+  "theme" : "Theme",
+  "title_fist_on_boarding": " Find Events That Inspire You",
+  "dec_fist_on_boarding": "Dive into a world of events crafted to fit your unique interests. Whether you're into live music, art workshops, professional networking, or simply discovering new experiences, we have something for everyone. Our curated recommendations will help you explore, connect, and make the most of every opportunity around you.\"",
+  "title_sec_on_boarding": "Effortless Event Planning",
+  "dec_sec_on_boarding": "Take the hassle out of organizing events with our all-in-one planning tools. From setting up invites and managing RSVPs to scheduling reminders and coordinating details, we’ve got you covered. Plan with ease and focus on what matters – creating an unforgettable experience for you and your guests.",
+  "title_third_on_boarding": "Connect with Friends & Share Moments",
+  "dec_third_on_boarding":"Make every event memorable by sharing the experience with others. Our platform lets you invite friends, keep everyone in the loop, and celebrate moments together. Capture and share the excitement with your network, so you can relive the highlights and cherish the memories.",
+  "l_start" : "Let’s Start",
+  "email": "Email" ,
+  "password": "Password",
+  "forget_password":  "Forget Password",
+  "login" : "Login" ,
+  "donot_have_account":"Don’t Have Account ?" ,
+  "create_account": "Create Account",
+  "or": "OR",
+  "login_with_google" :"Login With Google",
+  "reset_password": "Reset Password",
+  "register": "Register",
+  "name": "Name",
+  "re_password": "Re Password",
+  "already_have_account": "Already Hame Account ?"
+
+}
